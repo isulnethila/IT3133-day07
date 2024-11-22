@@ -26,5 +26,3 @@ This is a basic React app showing how data can be passed between a parent and a 
 ## Technologies Used
 - React
 - CSS
-- 
-##output
